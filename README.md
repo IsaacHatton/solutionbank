@@ -9,3 +9,5 @@ If you work at Pearson: I think this qualifies under fair use exceptions to copy
 
 # Development stuff
 This was made using Create React App, so commands should work as standard.
+
+This project is tested with BrowserStack
